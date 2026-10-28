@@ -17,5 +17,5 @@ MuleSoft Certified Developer focused on building API integrations.
 
 ## 📫 Contact
 
-* **Email:** [alirajuansills@gmail.com]
+* **Email:** alirajuansills@gmail.com
 * **LinkedIn:** [linkedin.com/in/alisills/]

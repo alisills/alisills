@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Ali Sills] 👋
 
-<!--
-**alisills/alisills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an integration engineer from Richmond, VA.
 
-Here are some ideas to get you started:
+MuleSoft Certified Developer focused on building API integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* **Integration:** MuleSoft Anypoint Platform, Anypoint Studio, DataWeave 2.0
+* **APIs:** RAML, REST APIs
+* **Languages & DBs:** Java, SQL, MySQL
+* **Tools & DevOps:** Git, GitHub, Maven
+
+## 🎖️ Certifications
+
+* MuleSoft Certified Developer – Level 1
+
+## 📫 Contact
+
+* **Email:** [alirajuansills@gmail.com]
+* **LinkedIn:** [linkedin.com/in/alisills/]

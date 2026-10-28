@@ -1,4 +1,4 @@
-# Hi, I'm [Ali Sills] 👋
+# Hi, I'm Ali Sills 👋
 
 I am an integration engineer from Richmond, VA.
 

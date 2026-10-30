@@ -14,6 +14,7 @@ MuleSoft Certified Developer focused on building API integrations.
 ## 🎖️ Certifications
 
 * MuleSoft Certified Developer – Level 1
+* Google Cybersecurity Certificate
 
 ## 📫 Contact
 
